@@ -1,1 +1,1 @@
-RandomizedSearchCV on the KNN Classifier applied to iris dataset
+GridSearchCv & RandomizedSearchCV on the KNN Classifier applied to iris dataset
